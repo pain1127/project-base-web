@@ -6,7 +6,6 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
@@ -104,8 +103,8 @@ dist
 # TernJS port file
 .tern-port
 
-#nginx 
-nginx
+# VSCode
+.vscode
 
-#vscode
-.vscode/
+# DS_STORE
+.DS_STORE
